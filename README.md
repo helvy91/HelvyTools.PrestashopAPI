@@ -1,7 +1,8 @@
 🚀 HelvyTools.PrestashopAPI - C# .NET Library for PrestaShop API Consumption
 
 HelvyTools.PrestashopAPI is a lightweight C# .NET library tailored for interacting with PrestaShop's API. Designed to simplify the process of integrating PrestaShop functionality into your C# .NET projects, this library offers an easy-to-use solution for managing your PrestaShop store programmatically.
-Features
+
+Features:
 
 1. Effortless Integration: Quickly integrate HelvyTools.PrestashopAPI into your C# .NET project with minimal configuration.
 2. Streamlined API Interaction: Simplify the handling of PrestaShop API requests and responses.
